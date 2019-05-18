@@ -28,12 +28,16 @@ Gulp + Bootstrap starter is extended with the following plugins.
 
 | Plugin | README |
 | ------ | ------ |
-| Gulp-Autoprefixer | [plugins/dropbox/README.md][PlDb] |
-| Gulp-Concat | [plugins/github/README.md][PlGh] |
-| Gulp-Csso | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| gulp-csso | [plugins/googledrive/README.md][PlGd] |
+| gulp-autoprefixer | [plugins/dropbox/README.md][PlDb] |
+| gulp-sass | [plugins/googleanalytics/README.md][PlGa] |
+| node-sass | [plugins/googleanalytics/README.md][PlGa] |
+| gulp-htmlmin | [plugins/onedrive/README.md][PlOd] |
+| gulp-concat | [plugins/github/README.md][PlGh] |
+| gulp-uglify | [plugins/googleanalytics/README.md][PlGa] |
+| gulp-imagemin | [plugins/medium/README.md][PlMe] |
+| gulp-webp | [plugins/googleanalytics/README.md][PlGa] |
+| gulp-rename | [plugins/googleanalytics/README.md][PlGa] |
 
 
 ### MIT License
