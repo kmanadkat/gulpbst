@@ -2,13 +2,14 @@
 Instant Live Reload on Changes - GulpWatch + Vscode LiveServer
 
 ### Installation + Start
-1.Open Build Folder inside Code editor (Ideally Vscode).
-2.Run Following Commands in Integrated Terminal.
+1. Open Build Folder inside Code editor (Ideally Vscode).
+2. Run Following Commands in Integrated Terminal.
+<br>
 ```npm install```
 <br>
 ```npm run watch```
 <br>
-3.Start Vscode Live Server.
+3. Start Vscode Live Server.
 <br>
 >Edit Files of ```/src``` folder, output will be in ```/dist``` folder(same root directory)
 <hr>
