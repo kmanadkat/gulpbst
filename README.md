@@ -4,7 +4,7 @@
 
 ### Features!
 - Browse Live Changes with auto-reload
-- Remove Unused Bootstrap Componenets from Bootstrap ```build/src/bstscss/bootstrap.scss```
+- Remove Unused Bootstrap Componenets
 - Concatinate Multiple Js Files
 - Minified Html, CSS, JS
 - Scss Work Flow.
@@ -22,6 +22,9 @@ $ npm install
 $ npm run watch
 ```
 > Edit Files of ```/src``` folder, output will be in ```/dist``` folder(same root directory)
+
+- To remove Unused Bootstrap component, open ```build/src/bstscss/bootstrap.scss``` and simply comment out things you donot need. Gulp will take care of building new minified css file at ```build/dist/assets/css``` , As Simple As That!!
+
 ### Plugins
 
 Gulp + Bootstrap starter is extended with the following plugins. 
