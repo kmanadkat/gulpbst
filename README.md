@@ -1,18 +1,8 @@
 # Gulp v4.0.2 - Bootstrap v4.3 Project Starter
-Instant Live Reload on Changes - GulpWatch + Vscode LiveServer
 
-### Installation + Start
-1. Open Build Folder inside Code editor (Ideally Vscode).
-2. Run Following Commands in Integrated Terminal.
-3. Start Vscode Live Server.
-```npm install```
-<br>
-```npm run watch```
-<br>
-> Edit Files of ```/src``` folder, output will be in ```/dist``` folder(same root directory)
-<hr>
+### Instant Live Reload on Changes - GulpWatch + Vscode LiveServer
 
-### Features
+### Features!
 - Browse Live Changes with auto-reload
 - Remove Unused Bootstrap Componenets
 - Concatinate Multiple Js Files
@@ -23,13 +13,27 @@ Instant Live Reload on Changes - GulpWatch + Vscode LiveServer
 - Start Creating @ build/src
 - Ready Deploy Files @ build/dist
 
-### Gulp Plugins Used :
-- Gulp-Autoprefixer
-- Gulp-Concat
-- Gulp-Csso
-- Gulp-Htmlmin
-- Gulp-Imagemin
-- Gulp-Rename
-- Gulp-Sass
-- Gulp-Uglify
-- Gulp-Webp
+### Installation
+- It requires [Node.js](https://nodejs.org/)
+- Open ```/build``` Folder inside Code editor (Ideally Vscode).
+- Install the devDependencies and start the Live server of Vscode.
+```sh
+$ npm install
+$ npm run watch
+```
+> Edit Files of ```/src``` folder, output will be in ```/dist``` folder(same root directory)
+### Plugins
+
+Gulp + Bootstrap starter is extended with the following plugins. 
+
+| Plugin | README |
+| ------ | ------ |
+| Gulp-Autoprefixer | [plugins/dropbox/README.md][PlDb] |
+| Gulp-Concat | [plugins/github/README.md][PlGh] |
+| Gulp-Csso | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
+
+### MIT License
