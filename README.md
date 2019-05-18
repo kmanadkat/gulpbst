@@ -1,6 +1,8 @@
-# Gulp v4.0.2 - Bootstrap v4.3 Project Starter
+# Gulp v4.0.2 - Bootstrap v4.3 - SCSS Project Starter
 [![Gulp](https://img.shields.io/badge/Gulp-4.0.2-red.svg)](https://gulpjs.com/docs/en/getting-started/quick-start)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-4.3-blue.svg)](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+
+## Customize Bootstrap - Remove Unused Components!
 
 ### Instant Live Reload on Changes - GulpWatch + Vscode LiveServer
 
