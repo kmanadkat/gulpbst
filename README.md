@@ -26,18 +26,18 @@ $ npm run watch
 
 Gulp + Bootstrap starter is extended with the following plugins. 
 
-| Plugin | README |
+| Plugin | npmjs Links |
 | ------ | ------ |
-| gulp-csso | [plugins/googledrive/README.md][PlGd] |
-| gulp-autoprefixer | [plugins/dropbox/README.md][PlDb] |
-| gulp-sass | [plugins/googleanalytics/README.md][PlGa] |
-| node-sass | [plugins/googleanalytics/README.md][PlGa] |
-| gulp-htmlmin | [plugins/onedrive/README.md][PlOd] |
-| gulp-concat | [plugins/github/README.md][PlGh] |
-| gulp-uglify | [plugins/googleanalytics/README.md][PlGa] |
-| gulp-imagemin | [plugins/medium/README.md][PlMe] |
-| gulp-webp | [plugins/googleanalytics/README.md][PlGa] |
-| gulp-rename | [plugins/googleanalytics/README.md][PlGa] |
+| gulp-csso | [Link](https://www.npmjs.com/package/gulp-csso) |
+| gulp-autoprefixer | [Link](https://www.npmjs.com/package/gulp-autoprefixer) |
+| gulp-sass | [Link](https://www.npmjs.com/package/gulp-sass) |
+| node-sass | [Link](https://www.npmjs.com/package/node-sass) |
+| gulp-htmlmin | [Link](https://www.npmjs.com/package/gulp-htmlmin) |
+| gulp-concat | [Link](https://www.npmjs.com/package/gulp-concat) |
+| gulp-uglify | [Link](https://www.npmjs.com/package/gulp-uglify) |
+| gulp-imagemin | [Link](https://www.npmjs.com/package/gulp-imagemin) |
+| gulp-webp | [Link](https://www.npmjs.com/package/gulp-webp) |
+| gulp-rename | [Link](https://www.npmjs.com/package/gulp-rename) |
 
 
 ### MIT License
