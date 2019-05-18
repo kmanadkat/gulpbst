@@ -1,0 +1,25 @@
+{
+  "name": "gulpstarter",
+  "version": "1.0.0",
+  "description": "Project Starter",
+  "main": "index.js",
+  "scripts": {
+    "watch": "gulp watch"
+  },
+  "keywords": [],
+  "author": "Krupesh Anadkat",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-webp": "^4.0.1",
+    "node-sass": "^4.12.0"
+  }
+}
