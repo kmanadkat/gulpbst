@@ -4,7 +4,7 @@
 
 ### Features!
 - Browse Live Changes with auto-reload
-- Remove Unused Bootstrap Componenets
+- Remove Unused Bootstrap Componenets from Bootstrap ```build/src/bstscss/bootstrap.scss```
 - Concatinate Multiple Js Files
 - Minified Html, CSS, JS
 - Scss Work Flow.
