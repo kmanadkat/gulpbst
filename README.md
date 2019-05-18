@@ -14,8 +14,8 @@ Instant Live Reload on Changes - GulpWatch + Vscode LiveServer
 - Scss Work Flow.
 - Built-in Media Queries
 - Genrates Minified jpg/png & Webp images
-- Start Creating @ /src
-- Ready Deploy Files @ /dist
+- Start Creating @ build/src
+- Ready Deploy Files @ build/dist
 
 ### Gulp Plugins Used :
 - Gulp-Autoprefixer
