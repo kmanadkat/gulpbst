@@ -4,7 +4,7 @@
 
 ### Customize Bootstrap - Remove Unused Components!
 Instant Live Reload on Changes - GulpWatch + Vscode LiveServer
-[Image](https://repository-images.githubusercontent.com/187352291/07d40680-7993-11e9-8e82-7e2aee97ac2d)
+![About Image](https://repository-images.githubusercontent.com/187352291/07d40680-7993-11e9-8e82-7e2aee97ac2d.png)
 
 ### Features!
 - Browse Live Changes with auto-reload
