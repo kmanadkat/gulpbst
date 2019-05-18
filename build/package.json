@@ -4,7 +4,8 @@
   "description": "Project Starter",
   "main": "index.js",
   "scripts": {
-    "watch": "gulp watch"
+    "watch": "gulp watch",
+    "build": "gulp"
   },
   "keywords": [],
   "author": "Krupesh Anadkat",

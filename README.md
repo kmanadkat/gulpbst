@@ -22,9 +22,12 @@ Instant Live Reload on Changes - GulpWatch + Vscode LiveServer
 ### Installation
 - It requires [Node.js](https://nodejs.org/)
 - Open ```/build``` Folder inside Code editor (Ideally Vscode).
-- Install the devDependencies and start the Live server of Vscode.
+- Install the devDependencies and build the starter package first.
+- Now Execute last command for watching changes and auto-compiling.
+- Enjoy Coding @ ```/src``` directory!
 ```sh
 $ npm install
+$ npm run build
 $ npm run watch
 ```
 > Edit Files of ```/src``` folder, output will be in ```/dist``` folder(same root directory)
