@@ -1,4 +1,5 @@
 # Gulp v4.0.2 - Bootstrap v4.3 Project Starter
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-4.3-blue.svg)]
 
 ### Instant Live Reload on Changes - GulpWatch + Vscode LiveServer
 
@@ -23,7 +24,7 @@ $ npm run watch
 ```
 > Edit Files of ```/src``` folder, output will be in ```/dist``` folder(same root directory)
 
-- To remove Unused Bootstrap component, open ```build/src/bstscss/bootstrap.scss``` and simply comment out things you donot need. Gulp will take care of building new minified css file at ```build/dist/assets/css``` , As Simple As That!!
+- To remove Unused Bootstrap components, open ```build/src/bstscss/bootstrap.scss``` and simply comment out things you donot need. Gulp will take care of building new minified css file at ```build/dist/assets/css``` , As Simple As That!!
 
 ### Plugins
 
