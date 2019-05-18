@@ -1,4 +1,4 @@
-# Gulp - Bootstrap Project Starter
+# Gulp v4.0.2 - Bootstrap v4.3 Project Starter
 Instant Live Reload on Changes - GulpWatch + Vscode LiveServer
 
 ### Installation + Start
